@@ -1,0 +1,22 @@
+#box1 {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    background-color: rgba(79, 79, 216, 0.795);
+    font-size: larger;
+    box-sizing:content-box; 
+
+    
+}
+
+#box2 {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    background-color: cadetblue;
+    box-sizing:content-box; 
+    margin-top: 24px;
+}
+img {
+    width: 300px;
+}
